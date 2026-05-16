@@ -1,4 +1,6 @@
 __pycache__/
+dist/
+build/
 *.pyc
 .env
 venv/
@@ -7,6 +9,3 @@ prompt.txt
 search.py
 router_prompt.txt
 physics.py
-dist/
-build/
-.DS_Store
