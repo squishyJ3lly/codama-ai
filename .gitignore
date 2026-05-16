@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.spec
+prompt.txt
+search.py
+router_prompt.txt
+physics.py
+dist/
+build/
+.DS_Store
