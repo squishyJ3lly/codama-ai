@@ -62,3 +62,12 @@ ollama pull llama3.2:3b
 ollama pull llama3.1:8b
 ollama pull qwen2.5-coder:7b
 ollama pull deepseek-coder:6.7b
+```
+
+## The executable
+If you use the executable rather than source code than you don't need to pull these models. This means:
+-  You don't have to wait 5 million years for install times
+and
+-  More portable
+You can redistribute your own versions of Codama if you really want to I don't really care.
+Just give me credits if you want to do that.
