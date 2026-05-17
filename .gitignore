@@ -5,7 +5,3 @@ build/
 .env
 venv/
 *.spec
-prompt.txt
-search.py
-router_prompt.txt
-physics.py
